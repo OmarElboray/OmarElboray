@@ -1,6 +1,6 @@
 # Omar Hossam ElBoray
 
-**Computational Biology Researcher | Software Developer for fun**
+**Computational Biology Researcher | Software Developer for Fun**
 
 I am a STEM student and developer based in New Cairo, Egypt, operating at the intersection of biological research and software engineering. My work focuses on building computational tools that solve complex academic problems, alongside researching biomedical sciences and molecular biology.
 
