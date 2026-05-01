@@ -26,7 +26,7 @@ I am a STEM student and developer based in New Cairo, Egypt, operating at the in
 * **Hardware:** Frugal science instrumentation, IoT development
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/omar-elboray-1309b7354/]
+* **LinkedIn:** [(https://www.linkedin.com/in/omar-elboray-1309b7354/)]
 * **Email:** [omarelboray.dev@gmail.com]
 
 ---
