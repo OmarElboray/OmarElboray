@@ -1,30 +1,27 @@
-# Hi, I'm Omar 👋
+# Omar Elboray
 
-**I build AI tools and small products for people who get overlooked, then work out how to get them adopted.**
+I build practical software and research tools at the intersection of AI, biology, education, and digital wellbeing.
 
-17, from Cairo. First graduating class of New Cairo STEM School. Founder of [Tiny Developments](https://tinydev.tech). Fully funded scholar at the Chevron Engineering Leadership Program, African Leadership Academy.
+## Selected projects
 
-## What I'm working on
+| Project | Description | Stack |
+| --- | --- | --- |
+| [FreezeTube](https://github.com/OmarElboray/FreezeTube) | Chrome extension for reducing YouTube recommendation loops | JavaScript, Manifest V3 |
+| [BioEngine AI](https://github.com/OmarElboray/BioEngine-Genetic-Analysis) | Experimental multimodal biology assistant | Python, FastAPI, Gemini |
+| [Hafiz](https://github.com/OmarElboray/Hafiz) | Quran memorization and recitation practice app | Next.js, TypeScript |
+| [PaperLens](https://github.com/OmarElboray/CiteSight) | In-page research reading assistant | JavaScript, Chrome Extensions |
+| [ScolarReach](https://github.com/OmarElboray/ScolarReach) | Student research and mentor matching platform | Flask, SQLite |
+| [TIGR-TasR](https://github.com/OmarElboray/TIGR-Tas-PM) | Dual-guide RNA candidate scoring research platform | Python, Flask |
+| [NCSS Gateway](https://github.com/OmarElboray/NCSS-Gateway) | Educational application and review portal | React, TypeScript, Supabase |
 
-- 🐬 **Smart Dolphin**: an ESP32 edge-AI tag that uses a neural autoencoder to compress bio-acoustic signals by 98%+ (guidance from Prof. Paul Manger, Wits University)
-- 🧬 **BioEngine AI**: leading an international student team building Python tools for genetic and protein-sequence analysis
-- 📊 **STEM Journal Guide**: analyzed 100+ capstone journals (300+ answers) with AI models and wrote a free guide used by 2,000+ students across 24 Egyptian STEM schools
-- 🔬 **Open Labs**: low-cost lab tools built from e-waste, including a 310x microscope for under $15, used by 300+ students and deployed at 2 Egyptian schools and ALA
+## Focus areas
 
-## Projects
+- AI-assisted biology and scientific computing
+- Tools that improve access to research and mentorship
+- Privacy-respecting productivity and learning software
+- Frugal science and accessible education
 
-| Project | What it is | Stack |
-|---|---|---|
-| [FreezeTube](https://github.com/OmarElboray/FreezeTube) | Chrome extension that stops YouTube's feed from pulling you away from what you came to watch. 19,000+ store impressions in five months, no ads. | JavaScript, Manifest V3 |
-| [BioEngine AI](https://github.com/OmarElboray/BioEngine-Genetic-Analysis) | Comparative genomics and protein-sequence analysis platform | Python, Biopython |
-| [Hafiz](https://github.com/OmarElboray/Hafiz) | Quran memorization assistant built on spaced repetition | TypeScript |
-| [CiteSight](https://github.com/OmarElboray/CiteSight) | Floating sidebar for real-time term lookup while reading research papers | JavaScript |
-| [ScholarReach](https://github.com/OmarElboray/ScolarReach) | Tool that helps students analyze and summarize scientific literature | HTML |
+## Connect
 
-## Tech
-
-`Python` `JavaScript` `TypeScript` `C++ (Arduino/ESP32)` `Biopython` `TensorFlow` `Chrome Extensions (MV3)`
-
-## Contact
-
-📧 omarelboray.dev@gmail.com · 💼 [LinkedIn](REPLACE_WITH_YOUR_LINKEDIN_URL) · 🌐 [tinydev.tech](https://tinydev.tech)
+- Website: [tinydev.tech](https://tinydev.tech)
+- Email: `omarelboray.dev@gmail.com`
