@@ -1,33 +1,30 @@
-# Omar Hossam ElBoray
+# Hi, I'm Omar 👋
 
-**Computational Biology Researcher | Software Developer for Fun**
+**I build AI tools and small products for people who get overlooked, then work out how to get them adopted.**
 
-I am a STEM student and developer based in New Cairo, Egypt, operating at the intersection of biological research and software engineering. My work focuses on building computational tools that solve complex academic problems, alongside researching biomedical sciences and molecular biology.
+17, from Cairo. First graduating class of New Cairo STEM School. Founder of [Tiny Developments](https://tinydev.tech). Fully funded scholar at the Chevron Engineering Leadership Program, African Leadership Academy.
 
-### 🔬 Current Research & Focus
-* **Computational Biology:** Leading a multi-national team on **BioEngine AI**, analyzing genetic data, non-coding DNA, and protein sequences.
-* **Neurobiology:** Actively researching the physiological mechanisms of unihemispheric sleep in aquatic mammals.
-* **Frugal Science:** Developing accessible laboratory instrumentation by repurposing consumer e-waste into functional scientific tools.
+## What I'm working on
 
-### 💻 Featured Projects
+- 🐬 **Smart Dolphin**: an ESP32 edge-AI tag that uses a neural autoencoder to compress bio-acoustic signals by 98%+ (guidance from Prof. Paul Manger, Wits University)
+- 🧬 **BioEngine AI**: leading an international student team building Python tools for genetic and protein-sequence analysis
+- 📊 **STEM Journal Guide**: analyzed 100+ capstone journals (300+ answers) with AI models and wrote a free guide used by 2,000+ students across 24 Egyptian STEM schools
+- 🔬 **Open Labs**: low-cost lab tools built from e-waste, including a 310x microscope for under $15, used by 300+ students and deployed at 2 Egyptian schools and ALA
 
-#### Core Platforms
-* **[BioEngine AI]** - An AI-driven comparative genomics and protein sequencing platform.
-* **[Hafiz / حافظ]** - A systematic Quran memorization assistant utilizing spaced repetition and Tasmi3 logic.
-* **[ScholarReach]** - A research-focused productivity suite for analyzing and summarizing complex scientific literature.
+## Projects
 
-#### Browser Utilities
-* **[CiteSight]** - A persistent, floating UI extension for real-time terminology analysis on academic PDFs.
-* **[FreezeTube]** - A lightweight DOM-manipulation extension designed to lock YouTube UI states and prevent auto-refreshing.
+| Project | What it is | Stack |
+|---|---|---|
+| [FreezeTube](https://github.com/OmarElboray/FreezeTube) | Chrome extension that stops YouTube's feed from pulling you away from what you came to watch. 19,000+ store impressions in five months, no ads. | JavaScript, Manifest V3 |
+| [BioEngine AI](https://github.com/OmarElboray/BioEngine-Genetic-Analysis) | Comparative genomics and protein-sequence analysis platform | Python, Biopython |
+| [Hafiz](https://github.com/OmarElboray/Hafiz) | Quran memorization assistant built on spaced repetition | TypeScript |
+| [CiteSight](https://github.com/OmarElboray/CiteSight) | Floating sidebar for real-time term lookup while reading research papers | JavaScript |
+| [ScholarReach](https://github.com/OmarElboray/ScolarReach) | Tool that helps students analyze and summarize scientific literature | HTML |
 
-### 🛠️ Technical Stack
-* **Languages:** Python, JavaScript, HTML/CSS, C++ (Arduino)
-* **Domains:** Biopython, Data Analysis, Chrome Extension API (Manifest V3), AI/NLP Integration
-* **Hardware:** Frugal science instrumentation, IoT development
+## Tech
 
-### 📫 Connect with Me
-* **LinkedIn:** [(https://www.linkedin.com/in/omar-elboray-1309b7354/)]
-* **Email:** [omarelboray.dev@gmail.com]
+`Python` `JavaScript` `TypeScript` `C++ (Arduino/ESP32)` `Biopython` `TensorFlow` `Chrome Extensions (MV3)`
 
----
-*Building tools to bridge the gap between complex science and accessible technology.*
+## Contact
+
+📧 omarelboray.dev@gmail.com · 💼 [LinkedIn](REPLACE_WITH_YOUR_LINKEDIN_URL) · 🌐 [tinydev.tech](https://tinydev.tech)
